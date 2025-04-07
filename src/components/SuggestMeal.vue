@@ -156,7 +156,7 @@ const clearHistory = () => {
 <template>
     <div>
       <h2>Meal Suggestions</h2>
-      <p>Select the available menu to cook today. 
+      <p>Click 'Cook' to select the food item for cooking today. Click 'Reset' to restore.
         <!-- Click 'Cook' to cook the food today and add it to the history. 
         The food will not be available until the history is reset.
         Click 'Reset' to remove food items from history and set it to null. -->
